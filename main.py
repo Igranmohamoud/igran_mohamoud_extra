@@ -1,29 +1,30 @@
-
-# TASK 1
-
-
-# GIT WORKFLOW FUNDAMENTALS
-# Working directoru or working tree, consists of files that you are currently working on, where you can view and modify files.
-# The staging area is like a rough draft space, it's where you can git add the version of a file or multiple files that you want to save in your next commit
-# The Local repo (HEAD) in Git is the pointer to the current branch reference, which is in turn a pointer to the last commit you made or the last commit that was checked out into your working directory.
-# A remote repository in Git, also called a remote, is a Git repository that's hosted on the Internet or another network.
+"""
+TASK 1
 
 
-# WORKING DIRECTORY STATES
-# A staging step in git allows you to continue making changes to the working directory, and it allows you to record changes in small commits.
-# As you edit files, Git sees them as modified, because you've changed them since your last commit.
-# The git commit command captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as “safe” versions of a project—Git will never change them unless you explicitly ask it to.
+GIT WORKFLOW FUNDAMENTALS
+Working directoru or working tree, consists of files that you are currently working on, where you can view and modify files.
+The staging area is like a rough draft space, it's where you can git add the version of a file or multiple files that you want to save in your next commit
+The Local repo (HEAD) in Git is the pointer to the current branch reference, which is in turn a pointer to the last commit you made or the last commit that was checked out into your working directory.
+A remote repository in Git, also called a remote, is a Git repository that's hosted on the Internet or another network.
 
 
-# GIT COMMANDS
-# The git add command adds a change in the working directory to the staging area
-# a commit is an operation which sends the latest changes of the source code to the repository, making these changes part of the head revision of the repository.
-# The git push command is used to upload local repository content to a remote repository.
-# git fetch is a primary command used to download contents from a remote repository.
-# The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
-# The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+WORKING DIRECTORY STATES
+A staging step in git allows you to continue making changes to the working directory, and it allows you to record changes in small commits.
+As you edit files, Git sees them as modified, because you've changed them since your last commit.
+The git commit command captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as “safe” versions of a project—Git will never change them unless you explicitly ask it to.
 
 
+GIT COMMANDS
+The git add command adds a change in the working directory to the staging area
+a commit is an operation which sends the latest changes of the source code to the repository, making these changes part of the head revision of the repository.
+The git push command is used to upload local repository content to a remote repository.
+git fetch is a primary command used to download contents from a remote repository.
+The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
+The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+
+
+"""
 
 
 
