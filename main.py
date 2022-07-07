@@ -26,7 +26,6 @@ The git pull command is used to fetch and download content from a remote reposit
 
 """
 
-
 # TASK 2 QUESTION 1
 
 user_pin = 1234
