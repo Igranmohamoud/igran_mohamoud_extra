@@ -19,6 +19,7 @@ what went well during the previous sprint cycle and what can be improved for the
 retrospective is an essential part of the Scrum framework for developing, delivering, and managing complex projects.
 
 
+
 ***SCRUM ROLES***
 
 **ScrumMaster** - Scrum masters serve as facilitators for agile teams working under the scrum methodology. They're the 
